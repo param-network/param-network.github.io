@@ -1,0 +1,17 @@
+network.param
+network.param.config
+network.param.enums
+network.param.exceptions
+network.param.modules.attachments
+network.param.modules.catalogue
+network.param.modules.catalogue.enums
+network.param.modules.inventory
+network.param.modules.person
+network.param.modules.person.contacts
+network.param.modules.person.customer
+network.param.modules.person.vendor
+network.param.modules.receipts
+network.param.modules.receipts.enums
+network.param.modules.returns
+network.param.modules.workflow
+network.param.modules.workflowConsensus
